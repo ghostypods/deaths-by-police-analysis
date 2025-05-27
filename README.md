@@ -36,4 +36,4 @@ These findings offer valuable insights into the multifaceted issue of police sho
   <li>The ages of individuals involved in police shootings are distributed unevenly, with certain age groups more represented.</li>
   <li>A potential link exists between the poverty rate in an area and the incidence of police shootings.</li>
 </ul>
-<p>These findings offer valuable insights into the multifaceted issue of police shootings in the U.S., suggesting areas for deeper examination and conversation.</p>
+<p>However, over the years (up to 2022), the frequency of these fatalities has decreased significantly. The right measures seem to have been taken to bring the numbers down. Hopefully those numbers can reach zero.</p>
